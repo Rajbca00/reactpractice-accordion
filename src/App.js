@@ -1,7 +1,7 @@
 import "./styles.css";
 import Accordion from "./components/Accordion";
 
-items = [
+const items = [
   {
     title: "What is Github and how does it work?",
     content:
